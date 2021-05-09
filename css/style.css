@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+
+.pano1 {
+    width: 50%;
+    height: 500px;
+}
+
+.pano2 {
+    width: 50%;
+    height: 500px;
+}
+
+#audio1, #audio2 {
+    width: 20%;
+    height: 10%;
+    margin: auto auto;
+}

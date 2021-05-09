@@ -1,0 +1,28 @@
+1) panolens
+
+	1.1)
+	- coder une visite virtuelle comprenant deux panoramas bien distincts
+	- chaque panorama comprend des hotspots image, son, et video
+	- contrôle souris ou gyroscope
+
+2) threejs
+
+	2.2)
+	- coder un minecraft
+	- vue et déplacements FPS
+	- création de cubes
+	- couleur des cubes
+	- empiler des cubes
+
+	2.6) 
+	- charger un modèle humanoïde 3D
+	- intégrer un joystick permettant de déplacer le personnage
+	- positions statique / marche / course
+
+3) canvas
+
+	3.1) 
+	- coder un studio vidéo
+	- le canvas correspond à la sortie du flux
+	- on peut ajouter des images, vidéos, webcam, images
+	- chaque élément peut être déplacé, redimensionné, masqué
